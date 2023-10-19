@@ -1,0 +1,14 @@
+diffrence in position absolute and position relative
+
+ABSOLUTE
+i: syntax  {
+    position:absolute;
+   }
+ii: when position absolute is used then the element can be moved with respect to it's parent
+iii: here other elements adjust to fit into the gap left by the element
+RELATIVE
+i: syntax{
+    position:relative;
+}
+ii: when position relative is used then the element can be moved from it's normal position
+iii: it leaves a space in it's original position
